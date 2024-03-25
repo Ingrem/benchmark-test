@@ -1,0 +1,6 @@
+*.json
+/.cache
+/venv
+/.idea
+/.cache/v/cache
+*.pyc
